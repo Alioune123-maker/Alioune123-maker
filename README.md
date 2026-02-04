@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alioune123-maker</h1>
 <h3 align="center">Étudiant Ingénieur en Génie Industriel & Excellence Opérationnelle | WCM – QHSE – Amélioration Continue</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alioune123-maker&label=Profile%20views&color=0e75b6&style=flat" alt="alioune123-maker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alioune123-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Alioune123-maker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alioune123-maker" alt="alioune123-maker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alioune123-maker" alt="Alioune123-maker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alioune ben yargue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alioune ben yargue" height="30" width="40" /></a>
-<a href="https://kaggle.com/alioune yargue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alioune yargue" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Alioune Ben Yargue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alioune Ben Yargue" height="30" width="40" /></a>
+<a href="https://kaggle.com/Alioune Yargue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Alioune Yargue" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,9 +31,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Alioune Yargue"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alioune Yargue" /></a><a href="https://ko-fi.com/Alioune Yargue"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Alioune Yargue" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alioune123-maker&show_icons=true&locale=en&layout=compact" alt="alioune123-maker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alioune123-maker&show_icons=true&locale=en&layout=compact" alt="Alioune123-maker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alioune123-maker&show_icons=true&locale=en" alt="alioune123-maker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alioune123-maker&show_icons=true&locale=en" alt="Alioune123-maker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alioune123-maker&" alt="alioune123-maker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alioune123-maker&" alt="Alioune123-maker" /></p>
 
