@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alioune123-maker</h1>
-<h3 align="center">Étudiant Ingénieur en Génie Industriel & Excellence Opérationnelle | WCM – QHSE – Amélioration Continue</h3>
+# Hi 👋, I'm Alioune123-maker
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Alioune123-maker&label=Profile%20views&style=flat" />
-</p>
+### Étudiant Ingénieur en Génie Industriel & Excellence Opérationnelle | WCM – QHSE – Amélioration Continue
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Alioune123-maker" />
-</a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=Alioune123-maker&label=Profile%20views&style=flat)
+
+![Trophées](https://github-profile-trophy.vercel.app/?username=Alioune123-maker)
+
+🏅 **I’m currently working on**  
+Implementation of AM & WO pillars (Autonomous Maintenance & Workplace Organization) – World Class Manufacturing
 
 - 🔭 I’m currently working on **Implementation of AM & WO pillars (Autonomous Maintenance & Workplace Organization) – World Class Manufacturing**
 
